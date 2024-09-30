@@ -1,7 +1,7 @@
 const XLSX = require('xlsx');
 
 const file1Path = '02_MSTag.xlsx'; 
-const batterPath = '266.国内文本关卡配置表@MapTranslationConfiguration.xlsx'; 
+const batterPath = '266总表0923.xlsx'; 
 
 // 读取 Excel 文件
 function readExcel(filePath) {
