@@ -53,7 +53,7 @@ function checkAndFormatTranslate(item) {
 // 遍历 batterDate 数组并应用 checkAndFormatTranslate 函数
 const newBatterDate = batterDate.map(checkAndFormatTranslate);
 
-console.log(newBatterDate);
+// console.log(newBatterDate);
 
 // 将 JSON 数据转换为工作表
 const worksheet = XLSX.utils.json_to_sheet(newBatterDate);
