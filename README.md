@@ -6,4 +6,4 @@ brace  /breis/ 大括号 布瑞思
 
 pip install openpyxl
 
-python unbraceTranslate.py.py
+python unbraceTranslate.py
