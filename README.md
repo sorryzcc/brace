@@ -1,6 +1,6 @@
 npm install xlsx
 
-node test3.js
+node braceTranslate.js
 
 brace  /breis/ 大括号 布瑞思
 
